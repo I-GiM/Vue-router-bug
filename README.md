@@ -1,6 +1,6 @@
 # Vue-router-bug
 
-#Steps to reproduce
+# Steps to reproduce
 
 This is a very dumbed down version of my application as i cannot bring in the repo to public but the same thing happens in my app
 
